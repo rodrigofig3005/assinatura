@@ -1,0 +1,2 @@
+# assinatura
+PNG da assinatura
